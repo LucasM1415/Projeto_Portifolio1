@@ -1,0 +1,123 @@
+/* Estilos gerais */
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#FFFFF0;
+    color: #333;
+}
+
+/* Estilos do cabeçalho */
+header {
+    text-align: center;
+    background-color: #e60014;
+    padding: 20px 0;
+    font-family: "Roboto", Arial, sans-serif;
+}
+
+header h1 {
+    margin: 0;
+    color: white;
+}
+
+header p {
+    margin: 5px 0;
+    color: #F8F8FF;
+}
+
+/* Estilos da seção "Sobre Mim" */
+#sobre {
+    text-align: center;
+    padding: 40px 0;
+}
+
+#sobre img {
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+#sobre p {
+    color: #555;
+}
+
+/* Estilos das seções */
+section {
+    padding: 40px 0;
+    text-align: center;
+}
+
+section h2 {
+    margin-bottom: 50px;
+    color: #333;
+    font-size: 45px;
+}
+
+section p {
+    font-size: 16px;
+}
+
+
+/* Estilos das habilidades */
+#habilidades ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    /*10541583*/
+}
+
+#habilidades li {
+    margin-bottom: 10px;
+    color: #555;
+    font-size: 17px;
+}
+
+/* Estilos dos projetos */
+.project {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #333;
+    background-color: #e60014;
+    text-align: left;
+    border-radius: 7px;
+}
+
+.project h3 {
+    margin: 0;
+    color: white;
+   
+}
+
+.project p {
+    color: #F8F8FF;
+    margin-left: 70px;   
+}
+
+.P1 {
+    margin-top: 25px;
+}
+
+.project a {
+    display: block;
+    margin-top: 25px;
+    color: #F8F8FF;
+    text-decoration:dashed;
+    font-weight: bolder;
+    
+}
+
+/* Estilos do rodapé */
+footer {
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 10px 0;
+    color: #666;
+}
+
+footer a {
+    color: #007bff;
+    text-decoration: none;
+}
