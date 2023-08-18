@@ -10,7 +10,7 @@ body {
 /* Estilos do cabeçalho */
 header {
     text-align: center;
-    background-color: #B22222;
+    background-color: #e60014;
     padding: 20px 0;
     font-family: "Roboto", Arial, sans-serif;
 }
@@ -80,7 +80,7 @@ section p {
     margin: 20px;
     padding: 20px;
     border: 1px solid #333;
-    background-color: #B22222;
+    background-color: #e60014;
     text-align: left;
     border-radius: 7px;
 }
